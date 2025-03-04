@@ -29,9 +29,10 @@ You can install these libraries using `pip`:
 ```sh
 pip install numpy matplotlib networkx
 
-# Usage
+## Usage
 1. Clone the repository:
 git clone https://github.com/yourusername/network-analysis.git
 cd network-analysis
 2. Open the Jupyter Notebook:
 jupyter notebook Network_Analysis.ipynb
+
